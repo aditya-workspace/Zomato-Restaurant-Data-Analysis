@@ -41,7 +41,7 @@ Zomato-Restaurant-Analysis/
 │   ├── Zomato_Dashboard.pbix
 │   └── Zomato_Dashboard_Preview.png
 │
-├── reports/
+├── AI Report/
 │   └── AI_Business_Insights.md
 │
 ├── data/
