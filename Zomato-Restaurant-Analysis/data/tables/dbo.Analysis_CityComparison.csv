@@ -1,0 +1,295 @@
+restaurant_name,city,rating,delivery_time,average_price,city_rank
+Brijwasi Petha,"Agra",4.60,12,100.00,1
+Tiwari Bombay Style Bhel And Panipuri,"Agra",4.60,25,100.00,2
+Garlick,"Agra",4.60,44,100.00,3
+Natural Ice Cream,"Ahmedabad",4.60,12,100.00,1
+Puff.Com,"Ahmedabad",4.60,31,150.00,2
+Manohar Cholafali Centrer,"Ahmedabad",4.60,32,100.00,3
+Bunty Fast Food,"Ajmer",4.70,NULL,100.00,1
+Bombay Chowpatty,"Ajmer",4.60,NULL,100.00,2
+Vadilal Ice Creams,"Ajmer",4.60,23,100.00,3
+Cakelers,"Alappuzha",4.60,37,150.00,1
+Brothers Restaurant,"Alappuzha",4.50,NULL,100.00,2
+Hotel Veg Palace,"Alappuzha",4.40,24,150.00,3
+Herbi Vore,"Aligarh",4.80,36,200.00,1
+JFC - Jagjeet Foods & Ice Cream,"Aligarh",4.70,NULL,200.00,2
+Fd Fitness Diet,"Aligarh",4.60,NULL,200.00,3
+Grameen Kulfi,"Allahabad",4.60,15,150.00,1
+NIC Ice Creams,"Allahabad",4.60,19,200.00,2
+Sulaki Lal Shrinath & Sons,"Allahabad",4.50,19,150.00,3
+Cafe Mukbang,"Amravati",4.70,33,250.00,1
+Haldiram's Express,"Amravati",4.50,15,200.00,2
+Kwality Wall’s Frozen Dessert and Ice Cream Shop,"Amravati",4.50,15,150.00,3
+Momohauss,"Amritsar",4.50,27,100.00,1
+Taste Of Home,"Amritsar",4.50,32,200.00,2
+Grandma's Kitchen,"Amritsar",4.50,39,100.00,3
+Mama Mia!,"Asansol",4.70,17,200.00,1
+Misti Mukh,"Asansol",4.60,24,200.00,2
+Sri Madhuri,"Asansol",4.40,20,100.00,3
+Renu's Poli Bhaji Kendra,"Aurangabad",4.50,NULL,100.00,1
+Balaji Bikaner Mithaiwala,"Aurangabad",4.40,NULL,150.00,2
+Kailash Veg Restaurant,"Aurangabad",4.40,NULL,50.00,3
+Sri Venkateshwara Sweetmeat Stall,"Bangalore",4.70,31,250.00,1
+Apsara Ice Creams,"Bangalore",4.70,42,200.00,2
+Corner House Ice Creams,"Bangalore",4.60,21,100.00,3
+Faasos - Wraps & Rolls,"Bareilly",4.50,18,300.00,1
+Ajanta,"Bareilly",4.50,19,100.00,2
+NIC Ice Creams,"Bareilly",4.50,27,200.00,3
+Ibaco,"Belgaum",4.80,21,200.00,1
+Garwa Cold Drinks- Shani Mandir,"Belgaum",4.60,20,100.00,2
+Natural Ice Cream,"Belgaum",4.60,21,200.00,3
+The Cafe Bistro,"Bhavnagar",4.60,19,150.00,1
+Murali Madrasi Vangi,"Bhavnagar",4.50,NULL,150.00,2
+Vadilal Ice Creams,"Bhavnagar",4.50,NULL,150.00,3
+Top N Town,"Bhopal",4.70,NULL,100.00,1
+Top N Town Ice Cream,"Bhopal",4.70,19,100.00,2
+Grameen Kulfi,"Bhopal",4.60,22,100.00,3
+Confetti - Hotel Marrion,"Bhubaneswar",4.70,13,100.00,1
+Snowball Ice Cream,"Bhubaneswar",4.70,22,300.00,2
+Banarasi Paan Bhandar,"Bhubaneswar",4.70,25,150.00,3
+Vadilal Ice Creams,"Bikaner",4.60,23,100.00,1
+Grameen Kulfi,"Bikaner",4.60,31,150.00,2
+Shree Parshwanath Ice Cream & Cold Drinks,"Bikaner",4.50,18,200.00,3
+Grameen Kulfi,"Chandigarh",4.60,25,150.00,1
+Lotus Ice Cream,"Chandigarh",4.60,30,100.00,2
+BrewBakes,"Chandigarh",4.60,35,100.00,3
+The Betel Leaf Co - Originally from Bangalore,"Chennai",4.70,27,150.00,1
+Hotel Sridevi,"Chennai",4.70,30,100.00,2
+Manohari Sweets And Chat,"Chennai",4.60,25,150.00,3
+Shree Kulfi,"Coimbatore",4.70,21,200.00,1
+Bombay Kulfi,"Coimbatore",4.60,27,100.00,2
+Dessert Forest,"Coimbatore",4.60,36,150.00,3
+Kwality Wall’s Frozen Dessert And Ice Cream Shop,"Cuttack",4.60,9,200.00,1
+Rainbow Ice Chuski & Fruit Juice,"Cuttack",4.60,28,100.00,2
+Fit Food Hub,"Cuttack",4.60,38,150.00,3
+Khalilya Hotel,"Darbhanga",4.70,18,300.00,1
+Pawan Store,"Darbhanga",4.60,29,300.00,2
+Chanda Mama,"Darbhanga",4.50,NULL,100.00,3
+Paris Paradise Foodie Vibes,"Darjeeling",4.30,NULL,150.00,1
+Foodaholic Cafe,"Darjeeling",4.30,41,250.00,2
+Hotel Lunnar,"Darjeeling",4.30,49,250.00,3
+Maheshwari Baker's,"Dehradun",4.60,41,200.00,1
+NIC Ice Creams,"Dehradun",4.50,20,100.00,2
+Vadilal Ice Creams,"Dehradun",4.50,20,150.00,3
+Novelty Dairy & Stores - Since 1956,"Delhi NCR",4.50,NULL,200.00,1
+Gopala,"Delhi NCR",4.50,23,300.00,2
+Kwality Wall’s Frozen Dessert and Ice Cream Shop,"Delhi NCR",4.50,24,100.00,3
+Grameen Kulfi,"Dhanbad",4.70,21,300.00,1
+Kwality Wall’s Frozen Dessert and Ice Cream Shop,"Dhanbad",4.70,29,150.00,2
+NIC Ice Creams,"Dhanbad",4.50,16,100.00,3
+Cumulus Kitchen,"Dharamshala",4.50,37,200.00,1
+Khaana Khazana,"Dharamshala",4.40,28,200.00,2
+Food Safari,"Dharamshala",4.40,39,200.00,3
+Kwality Wall’s Frozen Dessert And Ice Cream Shop,"Durgapur",4.70,24,300.00,1
+Hestia Bakehouse,"Durgapur",4.70,36,200.00,2
+Mama Mia!,"Durgapur",4.60,15,200.00,3
+Rambhai Special Butter Patties,"Firozabad",4.90,29,100.00,1
+Rock N Roll Cafe- Ice Cream point,"Firozabad",4.40,31,100.00,2
+Al Baik.com,"Firozabad",4.40,35,100.00,3
+Sree Ramtilkut Bhandar (Since 1911),"Gaya",4.80,24,200.00,1
+Keventers - Milkshakes & Desserts,"Gaya",4.70,16,100.00,2
+Hotel Namastay - Welcome Home,"Gaya",4.70,33,200.00,3
+Black Market,"Goa",4.60,30,250.00,1
+Frozen Den's Burgers & More,"Goa",4.60,32,250.00,2
+Cafe Basil,"Goa",4.50,NULL,200.00,3
+Spicy Affair's Family Restaurant,"Gonda",4.50,NULL,NULL,1
+Goli Vada Pav,"Gonda",4.50,30,250.00,2
+Khurana BAKERS & GIFT SHOP,"Gonda",4.40,33,100.00,3
+Kwality Wall’s Frozen Dessert and Ice Cream Shop,"Gorakhpur",4.60,15,100.00,1
+NIC Ice Creams,"Gorakhpur",4.60,23,100.00,2
+Grameen Kulfi,"Gorakhpur",4.60,24,100.00,3
+UFC - United Fried Chicken,"Guntur",4.70,NULL,100.00,1
+Raja Tiffins And Meals,"Guntur",4.60,NULL,100.00,2
+NIC Ice Creams,"Guntur",4.60,12,150.00,3
+Kwality Wall’s Frozen Dessert and Ice Cream Shop,"Guwahati",4.60,28,150.00,1
+NIC Ice Creams,"Guwahati",4.60,34,250.00,2
+Grameen Kulfi,"Guwahati",4.60,39,150.00,3
+Good Morning Bakers,"Haridwar",4.60,26,100.00,1
+Kwality Walls Frozen Dessert and Ice Cream Shop,"Haridwar",4.60,27,100.00,2
+Gulshan Fast Food,"Haridwar",4.50,NULL,150.00,3
+Pista House Zafrani Tea,"Hyderabad",4.60,18,250.00,1
+Natural Ice Cream,"Hyderabad",4.60,23,100.00,2
+Euphoria Bakers,"Hyderabad",4.60,25,100.00,3
+Natural Ice Cream,"Indore",4.50,18,200.00,1
+JMB,"Indore",4.50,19,200.00,2
+Desserts By Pihu,"Indore",4.50,21,150.00,3
+Top N Town,"Jabalpur",4.60,NULL,40.00,1
+Veg Daawat By Behrouz,"Jabalpur",4.60,35,150.00,2
+Ishvit Snacks,"Jabalpur",4.60,51,150.00,3
+Grameen Kulfi,"Jaipur",4.50,14,200.00,1
+Natural Ice Cream,"Jaipur",4.50,18,150.00,2
+Scoop & Cones - Artisan Gelato,"Jaipur",4.50,20,200.00,3
+Yash Sweet Shop,"Jalandhar",4.70,37,100.00,1
+Ghai Biscuits,"Jalandhar",4.60,13,300.00,2
+Mast Ram Pakore Wale,"Jalandhar",4.60,24,100.00,3
+Mahalaxmi,"Jalgaon",4.60,NULL,250.00,1
+Shree Guru Ramdas Ji Family Restaurant,"Jalgaon",4.60,NULL,100.00,2
+Khaman House,"Jalgaon",4.60,NULL,100.00,3
+Nature Leaf Kitchen,"Jammu",4.60,NULL,100.00,1
+Jammu Chilli Kitchen,"Jammu",4.40,NULL,100.00,2
+Cherry's Kitchen,"Jammu",4.40,NULL,100.00,3
+Vishnu Halwa House,"Jamnagar",4.70,14,50.00,1
+Patel Ice Cream,"Jamnagar",4.60,NULL,50.00,2
+Palak Fast Food,"Jamnagar",4.60,NULL,150.00,3
+Narayan Kulfi,"Jamshedpur",4.70,14,200.00,1
+Kwality Wall's Frozen Dessert And Ice Cream Shop,"Jamshedpur",4.70,22,150.00,2
+Nanis Homemade Chocolates,"Jamshedpur",4.70,41,200.00,3
+Grameen Kulfi,"Jhansi",4.60,12,300.00,1
+NIC Ice Creams,"Jhansi",4.50,12,100.00,2
+Vandana Sweets,"Jhansi",4.50,16,150.00,3
+Grameen Kulfi,"Jodhpur",4.60,35,450.00,1
+Vadilal Ice Creams,"Jodhpur",4.50,21,100.00,2
+15 A.D.,"Jodhpur",4.50,22,150.00,3
+Dudhwala Jeram Makan,"Junagadh",4.70,NULL,100.00,1
+Chhaswala,"Junagadh",4.60,26,200.00,2
+Patel food parcel & restaurant,"Junagadh",4.50,NULL,50.00,3
+Thaggu Ke Laddu,"Kanpur",4.60,27,150.00,1
+The Pasta City,"Kanpur",4.60,29,100.00,2
+Milkshake And Co.,"Kanpur",4.60,32,150.00,3
+AnyBelly,"Kharagpur",4.60,40,100.00,1
+Mio Amore,"Kharagpur",4.50,25,150.00,2
+Kebab Kulcha Kurries,"Kharagpur",4.50,40,150.00,3
+Natural Ice Cream,"Kolhapur",4.60,15,100.00,1
+Flavors,"Kolhapur",4.60,15,150.00,2
+Dumpling,"Kolhapur",4.50,NULL,100.00,3
+ROYCE' Chocolate,"Kolkata",4.70,60,400.00,1
+Coffichat,"Kolkata",4.60,23,200.00,2
+Sri Krishna Hot Chips,"Kolkata",4.60,33,100.00,3
+Raghu Pan Bhandar,"Kota",4.60,16,200.00,1
+Grameen Kulfi,"Kota",4.60,17,250.00,2
+NIC Ice Creams,"Kota",4.60,18,350.00,3
+Mehrotra Varanasi Tambulagar,"Lucknow",4.70,15,250.00,1
+Bhatia Bakery,"Lucknow",4.60,28,150.00,2
+Bowlkeeper,"Lucknow",4.60,44,100.00,3
+College Road Samose Wala,"Ludhiana",4.60,15,200.00,1
+Hotel Green's Bar & Restaurant,"Ludhiana",4.60,19,500.00,2
+Chaurasia Pan Palace,"Ludhiana",4.60,30,350.00,3
+Lala Bakery,"Madurai",4.60,NULL,50.00,1
+Ram's Chappathi Center,"Madurai",4.60,21,150.00,2
+Kasthuri Bakery & Sweets,"Madurai",4.60,29,150.00,3
+Darjeeling Steamers,"Manali",4.50,NULL,300.00,1
+The Pahadi Cafe,"Manali",4.40,24,50.00,2
+Zam Zam Mediterranean,"Manali",4.30,40,350.00,3
+Grameen Kulfi,"Mangalore",4.70,24,300.00,1
+Ovenfresh Cakes and Desserts,"Mangalore",4.70,24,100.00,2
+Burger It Up,"Mangalore",4.70,31,100.00,3
+Hangyo Ice Cream,"Manipal",4.90,8,100.00,1
+Natural Ice Cream,"Manipal",4.80,11,200.00,2
+Grameen Kulfi,"Manipal",4.70,12,100.00,3
+Haji Noor Mohammad Sheer Mal Wale,"Meerut",4.60,21,100.00,1
+Grameen Kulfi,"Meerut",4.60,26,100.00,2
+And Fungi,"Meerut",4.60,33,100.00,3
+Jain Samosa,"Moradabad",4.60,NULL,40.00,1
+Sabri Chicken Fry Center,"Moradabad",4.50,NULL,100.00,2
+Snakables By The Nawab's Kitchen,"Moradabad",4.40,NULL,100.00,3
+The Family Bawarchi Restaurant,"Motihari",4.30,45,200.00,1
+The Roll India,"Motihari",4.20,NULL,150.00,2
+The Flavors Restaurant,"Motihari",4.20,48,150.00,3
+Fabelle Chocolates - ITC Grand Central,"Mumbai",4.70,25,200.00,1
+Le 15 Patisserie,"Mumbai",4.60,22,100.00,2
+ZAZA Mughal Biryani,"Mumbai",4.60,30,100.00,3
+Zaika Dilli-6,"Mussoorie",4.10,NULL,300.00,1
+Zaika Dilli-6,"Mussoorie",4.10,NULL,300.00,2
+Zaika Dilli-6,"Mussoorie",4.10,NULL,300.00,3
+Grameen Kulfi,"Mysore",4.70,NULL,50.00,1
+Cucina Fresca,"Mysore",4.70,35,250.00,2
+NIC Ice Creams,"Mysore",4.60,NULL,200.00,3
+Bombay Kulfi,"Nagpur",4.60,20,150.00,1
+Shrikhandwala,"Nagpur",4.60,20,50.00,2
+Jai Durga Bhel Centre,"Nagpur",4.60,29,100.00,3
+Café Lakeside,"Nainital",4.30,NULL,250.00,1
+The Live Kitchen,"Nainital",4.30,33,150.00,2
+Al- Baik Restaurant,"Nainital",4.30,34,150.00,3
+Shawarma Bite's,"Nashik",4.70,29,50.00,1
+Dairy Don,"Nashik",4.60,18,150.00,2
+Cupcake Bliss Cakes & Desserts,"Nashik",4.60,24,150.00,3
+Yamu's Panchayat,"NCR",4.60,18,150.00,1
+Kulfi Point,"NCR",4.60,33,100.00,2
+Cream Bell,"NCR",4.60,43,200.00,3
+Sri Parameshwara Noodles,"Nellore",4.60,31,150.00,1
+Pizza House,"Nellore",4.60,35,150.00,2
+Sri Venkata Sai Home Foods,"Nellore",4.50,NULL,100.00,3
+Rasoi Ghar Se,"Palakkad",4.90,32,100.00,1
+Indraprastha Restaurant,"Palakkad",4.60,32,300.00,2
+Hotel Samudra,"Palakkad",4.60,33,100.00,3
+The Lotus Kitchen,"Patiala",4.70,16,350.00,1
+Chaurasia Pan Parlour,"Patiala",4.50,14,150.00,2
+Santa Di Hatti,"Patiala",4.50,15,300.00,3
+Vadilal Ice Creams,"Patna",4.60,19,200.00,1
+Hungry Panda,"Patna",4.60,29,150.00,2
+NIC Ice Creams,"Patna",4.60,33,50.00,3
+Zuka,"Puducherry",4.60,35,150.00,1
+Chennai Qurbhani Biryani Hotel,"Puducherry",4.60,49,100.00,2
+Grameen Kulfi,"Puducherry",4.50,NULL,200.00,3
+Aamhi Pohekar,"Pune",4.60,14,150.00,1
+Pandurang Bhel,"Pune",4.60,20,150.00,2
+Vohuman Cafe,"Pune",4.60,22,300.00,3
+Govardhan Pan Palace,"Raipur",4.70,28,100.00,1
+Natural Ice Cream,"Raipur",4.60,19,100.00,2
+Bangolicious,"Raipur",4.60,50,150.00,3
+Rangoli Restaurant,"Rajkot",4.70,NULL,200.00,1
+Milan Soda,"Rajkot",4.70,20,100.00,2
+Grameen Kulfi,"Rajkot",4.60,15,100.00,3
+Vadilal Ice Creams,"Ranchi",4.60,32,200.00,1
+NIC Ice Creams,"Ranchi",4.50,15,150.00,2
+Grameen Kulfi,"Ranchi",4.50,16,100.00,3
+Hrishi's Little Hut,"Rishikesh",4.60,32,150.00,1
+Apna Kitchen,"Rishikesh",4.40,31,100.00,2
+Rotis,"Rishikesh",4.40,47,150.00,3
+Gokul Icecreams,"Saharanpur",4.60,NULL,50.00,1
+All Noor Nihari Corner,"Saharanpur",4.60,NULL,40.00,2
+Saini Soup & Snacks,"Saharanpur",4.50,NULL,100.00,3
+Diet Kitchen,"Salem",4.70,NULL,250.00,1
+Diet Kitchen,"Salem",4.70,NULL,250.00,2
+Diet Kitchen,"Salem",4.70,NULL,250.00,3
+Shree Sai Sandwich And Fruit Juice Center,"Sangli",4.80,NULL,200.00,1
+Vinayak Dabeli Center,"Sangli",4.60,14,50.00,2
+Orange Colddrink House,"Sangli",4.60,21,50.00,3
+The Brew Estate,"Shimla",4.50,43,500.00,1
+Wake & Bake,"Shimla",4.30,NULL,500.00,2
+Hotel Landmark,"Shimla",4.30,34,150.00,3
+Banarasi Paan Cafe,"Siliguri",4.70,28,100.00,1
+NIC Ice Creams,"Siliguri",4.60,23,250.00,2
+Kwality Wall’s Frozen Dessert And Ice Cream Shop,"Siliguri",4.60,27,100.00,3
+Rao Shrigiri Savji,"Solapur",4.60,NULL,150.00,1
+Riz Kitchen,"Solapur",4.60,20,50.00,2
+Chavan Raspaan Gruh,"Solapur",4.60,21,100.00,3
+Kudrati Kahumbo,"Surat",4.80,34,400.00,1
+Mukesh Pan And Cold Point,"Surat",4.70,22,100.00,2
+Shree Sai Krupa Fast Food,"Surat",4.70,45,200.00,3
+Peni Ice Cream,"Thrissur",4.80,14,300.00,1
+Arun Icecreams,"Thrissur",4.70,18,50.00,2
+Lazza Icecreams Classic,"Thrissur",4.70,20,150.00,3
+ibaco,"Tirunelveli",4.60,25,150.00,1
+Scoopp Shop,"Tirunelveli",4.50,NULL,150.00,2
+Blaack Forest,"Tirunelveli",4.50,25,100.00,3
+Cake Waves,"Trichy",4.90,24,150.00,1
+Seakings Ice Creams,"Trichy",4.60,23,200.00,2
+Ibaco,"Trichy",4.60,29,100.00,3
+Kumbayah Kombucha,"Trivandrum",4.70,32,150.00,1
+Buttercup Bakehouse,"Trivandrum",4.70,34,150.00,2
+Grameen Kulfi,"Trivandrum",4.60,22,100.00,3
+Vishal Namkeen Products,"Udaipur",4.60,NULL,300.00,1
+Poornima Vadapav,"Udaipur",4.60,22,250.00,2
+Grameen Kulfi,"Udaipur",4.50,24,200.00,3
+Haji Chote Kha Kabab Wale,"Ujjain",4.60,NULL,100.00,1
+New Sundar Dairy and Sweets,"Ujjain",4.60,11,150.00,2
+Hardik Refreshment,"Ujjain",4.50,26,200.00,3
+Oasis Vegan Treats,"Vadodara",4.80,43,250.00,1
+Bumia's,"Vadodara",4.60,19,150.00,2
+Special Kutchi Dabeli,"Vadodara",4.60,19,100.00,3
+Grameen Kulfi,"Varanasi",4.60,25,150.00,1
+Popular Sweets,"Varanasi",4.60,34,200.00,2
+The Tiffin King,"Varanasi",4.60,48,200.00,3
+Grameen Kulfi,"Vellore",4.70,34,200.00,1
+Kal's Kitchen,"Vellore",4.60,NULL,150.00,2
+The Belgian Waffle Co.,"Vellore",4.60,32,100.00,3
+Grameen Kulfi,"Vijayawada",4.60,18,300.00,1
+Gala Dreams,"Vijayawada",4.60,19,200.00,2
+Srinu Noodles,"Vijayawada",4.60,23,200.00,3
+Evolve Eaters,"Visakhapatnam",4.50,NULL,50.00,1
+NIC Ice Creams,"Visakhapatnam",4.40,17,200.00,2
+Cream Stone Ice Cream,"Visakhapatnam",4.40,19,100.00,3
+NIC Ice Creams,"Warangal",4.60,18,150.00,1
+NIC Ice Creams,"Warangal",4.60,25,150.00,2
+Sadashiva Sweets And Bakery,"Warangal",4.60,38,250.00,3
